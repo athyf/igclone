@@ -1,0 +1,8 @@
+installed git
+cloned repo from github
+installed php/xampp
+installed composer
+installed node js-npm
+installed laravel
+
+undraw.co
