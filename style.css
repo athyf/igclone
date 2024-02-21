@@ -1,0 +1,14 @@
+
+@media(min-width: 768px){
+    .newletter-input {
+        width:65%;
+    }
+}
+
+.showcase-img-width{
+    width:35%;
+}
+
+.bg-custom{
+    background-color: #304D30;
+}
