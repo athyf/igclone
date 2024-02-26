@@ -10,5 +10,22 @@
 }
 
 .bg-custom{
-    background-color: #304D30;
+    background-color: #436850;
+}
+.bg-custom2{
+    background-color: #ADBC9F;
+}
+.bg-dark2{
+    background-color: #12372A;
+}
+
+.btn-custom2{
+    background-color: #ADBC9F;
+}
+
+.btn-dark{
+    background-color: #2f2e41;
+}
+.btn-light2{
+    background-color: #FBFADA;
 }
