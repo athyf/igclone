@@ -4,6 +4,11 @@
         width:65%;
     }
 }
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
 
 .showcase-img-width{
     width:35%;
